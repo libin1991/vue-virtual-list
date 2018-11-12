@@ -4,6 +4,9 @@
 ## ListView
 虚拟列表，列表数据多的时候的使用。
 
+## Resource
+https://juejin.im/post/5aafcb26518825555e5da960
+
 ## Build Setup
 
 ``` bash
